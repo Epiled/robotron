@@ -46,7 +46,7 @@
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
 <p>No link abaixo você pode ver a página no ar e rodar seus próprios testes</p>
-<p>Robotron: <a href="epiled.github.io/robotron/">epiled.github.io/robotron/</a></p>
+<p>Robotron: <a target="_blank" href="https://epiled.github.io/robotron/">epiled.github.io/robotron/</a></p>
 
 
 ![desktop-robo (1)](https://github.com/Epiled/JavaScript-manipulando-o-DOM/assets/55258483/d876458a-6bde-4460-96da-3cba6a848404)
